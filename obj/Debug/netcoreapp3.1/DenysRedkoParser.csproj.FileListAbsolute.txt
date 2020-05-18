@@ -1,0 +1,14 @@
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.exe
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.deps.json
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.runtimeconfig.json
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.runtimeconfig.dev.json
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.dll
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\DenysRedkoParser.pdb
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.csprojAssemblyReference.cache
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.AssemblyInfoInputs.cache
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.AssemblyInfo.cs
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.dll
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.pdb
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.genruntimeconfig.cache
+D:\education\university\LexerAntlr4\DenysRedkoParser\bin\Debug\netcoreapp3.1\TreeCollections.dll
+D:\education\university\LexerAntlr4\DenysRedkoParser\obj\Debug\netcoreapp3.1\DenysRedkoParser.csproj.CopyComplete
